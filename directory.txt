@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0020-8F2C
+
+ Directory of C:\Temp\fakeHomeowork\matplotlib-challange
+
+12/12/2019  06:32 PM    <DIR>          .
+12/12/2019  06:32 PM    <DIR>          ..
+12/12/2019  06:32 PM                 0 directory.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,670,440,337,408 bytes free
